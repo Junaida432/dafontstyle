@@ -1,10 +1,10 @@
-# DafontStyle.io
+# DafontStyle
 
 ## Free Fonts, Font Previewing, and Typography Resources
 
 Finding a font should not require opening dozens of tabs, downloading a ZIP file before knowing how the typeface looks, or guessing whether the font matches the project you have in mind. DafontStyle.io focuses on a simpler workflow: discover a font, preview it with your own text, review the available font information, and download the font package when it fits your needs.
 
-DafontStyle.io is a font discovery and download website for designers, developers, students, creators, and anyone who needs a typeface for a project. The site organizes fonts by style and provides font pages where visitors can preview typography before downloading.
+DafontStyle is a font discovery and download website for designers, developers, students, creators, and anyone who needs a typeface for a project. The site organizes fonts by style and provides font pages where visitors can preview typography before downloading.
 
 > **Website:** https://dafontstyle.io/
 ![DafontStyle.io Screenshot](./Screenshot%202026-05-29%20115905.png)
@@ -12,13 +12,13 @@ DafontStyle.io is a font discovery and download website for designers, developer
 
 ## What is DafontStyle.io?
 
-DafontStyle.io is an online font library focused on font discovery, previewing, and downloading. Visitors can browse fonts, open individual font pages, test custom text, and download available font files.
+Dafont Style is an online font library focused on font discovery, previewing, and downloading. Visitors can browse fonts, open individual font pages, test custom text, and download available font files.
 
 The project exists around a straightforward problem: choosing a font is easier when you can see the actual typeface before you download it.
 
 A font name alone rarely tells you whether a typeface will work for a logo, poster, social media graphic, website heading, invitation, packaging design, presentation, or personal project. A live preview gives the visitor a more useful way to evaluate the font.
 
-DafontStyle.io also groups fonts into recognizable categories such as sans serif, script, calligraphy, gothic, cartoon, handwritten, fancy, and other typography styles. Category browsing helps visitors discover fonts when they know the visual direction they want but do not know the exact font name.
+DaFontstyle also groups fonts into recognizable categories such as sans serif, script, calligraphy, gothic, cartoon, handwritten, fancy, and other typography styles. Category browsing helps visitors discover fonts when they know the visual direction they want but do not know the exact font name.
 
 The project does not treat font discovery as a simple download button. The useful workflow starts before the download:
 
@@ -32,7 +32,7 @@ The project does not treat font discovery as a simple download button. The usefu
 
 ---
 
-## Search Intent Behind DafontStyle.io
+## Search Intent Behind DafontStyle
 
 People arrive at a font website with different goals. A good font resource needs to support those goals without forcing every visitor through the same path.
 
@@ -88,7 +88,7 @@ A useful font platform needs to answer these questions because downloading a fil
 
 ---
 
-## The Problem DafontStyle.io Solves
+## The Problem DafontStyle Solves
 
 Font selection often starts with a visual requirement rather than a technical one.
 
@@ -106,7 +106,7 @@ A font that looks attractive with the alphabet may not work well for a specific 
 
 ---
 
-## How the DafontStyle.io Workflow Works
+## How the Dafont Style Workflow Works
 
 ![DafontStyle Screenshot](./DafontStyle.png)  
 
