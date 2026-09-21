@@ -108,6 +108,8 @@ A font that looks attractive with the alphabet may not work well for a specific 
 
 ## How the DafontStyle.io Workflow Works
 
+![DafontStyle Screenshot](./DafontStyle.png)  
+
 The site follows a practical discovery workflow.
 
 ### 1. Browse or search for a font
