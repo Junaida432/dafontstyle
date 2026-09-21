@@ -7,7 +7,7 @@ Finding a font should not require opening dozens of tabs, downloading a ZIP file
 DafontStyle.io is a font discovery and download website for designers, developers, students, creators, and anyone who needs a typeface for a project. The site organizes fonts by style and provides font pages where visitors can preview typography before downloading.
 
 > **Website:** https://dafontstyle.io/
-
+![DafontStyle.io Screenshot](./Screenshot%202026-05-29%20115905.png)
 ---
 
 ## What is DafontStyle.io?
